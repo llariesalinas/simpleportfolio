@@ -2,7 +2,8 @@
 
 Welcome to my personal portfolio website! This project showcases my journey as a Computer Science student, my skills, projects, and ways to connect with me.
 
-!<img width="791" alt="screenshot" src="https://github.com/user-attachments/assets/0d6afaa0-fc0c-47eb-ac58-1f1142ddf30c" />
+![486557654_9100051096773529_6806620901051515112_n](https://github.com/user-attachments/assets/8e126c36-b726-4b08-8a9c-b6f3d8b50714)
+![77C0C95E-44B9-4321-9830-31494B6FB6C6](https://github.com/user-attachments/assets/747cf86c-ef34-488d-83b5-eacc6498ea4c)
 
 ## 📁 Project Overview
 
